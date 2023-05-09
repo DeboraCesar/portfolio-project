@@ -60,6 +60,12 @@ p{
 .img-size{
     width: 400px;
     height: auto;
+    border-radius: 4px;
+}
+.self-img-size{
+    width: 200px;
+    height: auto;
+    border-radius: 4px;
 }
 .project-description{
     padding: 40px 60px;
